@@ -1,6 +1,6 @@
-# <img src="preview.png" width="35"> Изменение даты и времени комментариев
+# <img src="preview.png" width="35"> Настройка рейтинга для всех товаров
 
-<b>Module DateReview - <a href="https://okay-cms.com/products/ratingproduct_1.0.0-ratingproduct" target="_blank">Маркетплейс</a></b>
+<b>Module RatingProduct - <a href="https://okay-cms.com/products/ratingproduct_1.0.0-ratingproduct" target="_blank">Маркетплейс</a></b>
 
 Данный модуль позволяет настроить рейтинг и количество голосов для всех товаров в вашем магазине. Вы можете изменить рейтинг для всех товаров одновременно, или только для товаров, у которых еще не выставлен рейтинг. Также вы можете установить количество голосов для каждого товара.
 
