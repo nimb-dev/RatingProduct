@@ -6,7 +6,7 @@
 
 # Результат работы модуля
 
-<img src="screenshots/screen.png">
+<img src="screen.png">
 
 # Зачем мне этот модуль?
 
