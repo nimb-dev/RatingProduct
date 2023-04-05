@@ -1,4 +1,4 @@
-# Изменение даты и времени комментариев
+# <img src="preview.png" width="35"> Изменение даты и времени комментариев
 
 <b>Module DateReview - <a href="https://okay-cms.com/products/ratingproduct_1.0.0-ratingproduct" target="_blank">Маркетплейс</a></b>
 
